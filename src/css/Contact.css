@@ -1,0 +1,28 @@
+.contentTitleCT {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #C7CCF3;
+}
+.textPositionCT {
+    width: 85%;
+}
+.contactContent {
+    display: flex;
+    width: 160vh;
+    margin-top: 5%;
+
+}
+.titleContent{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 5%;
+}
+.codeQRcontent {
+    width: 42%;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}

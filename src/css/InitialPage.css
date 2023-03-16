@@ -1,0 +1,53 @@
+.contentImg {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 80vh;
+    margin: 40px;
+
+}
+.contentName {
+    font-size: 3rem;
+    color: white;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
+    transition: all 0.3s ease-in-out;
+}
+.contentMySelf {
+    height: 100vh;
+    background-color: #C7CCF3;
+}
+.imgPosition {
+    transform: translate(179%, 5%);
+    width: 35%;
+    border-radius: 80px;
+}
+.textPosition {
+    transform: translate(9%, -110%);
+    width: 47%;
+}
+.contentSocialMedia {
+    display: flex;
+    align-items: center;
+    height: 55vh;
+    margin: 40px;
+    margin-top: 5%;
+}
+.contentIconMendia {
+    transform: translate(0%, -80%);
+}
+.contentIcons {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 10%;
+}
+.contentContact {
+    transform: translate(155%, -70%);
+}
+.contentTelMail {
+    display: flex;
+    margin-top: 31%;
+}

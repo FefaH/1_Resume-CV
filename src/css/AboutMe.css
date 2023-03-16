@@ -1,0 +1,95 @@
+.contentTitleAM {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #C7CCF3;
+}
+.contentTitleEMP {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 140vh;
+    background-color: #C7CCF3;
+}
+
+.textPositionAM {
+    transform: translate(-37%, 5%);
+    width: 47%;
+}
+.aboutContent {
+    display: flex;
+    width: 160vh;
+}
+.block1 {
+    width: 50%;
+}
+.block2 {
+    width: 50%;
+    margin-left: 5%;
+}
+.contentTitleED {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #ffffff;
+}
+.textPositionED {
+    transform: translate(10%, 100%);
+}
+.containerPrincipal {
+    padding-bottom: 20;
+}
+.cuadro {
+    margin-top: 10;
+    justify-content: center;
+}
+.roots {
+    padding: 20;
+    margin-right: 20;
+    margin-bottom: 20px;
+    width: 80%;
+    margin: 20;
+}
+.Institute {
+    font-size: 16;
+    margin-bottom: 15;
+    font-weight: 400;
+    text-align: center;
+}
+.puesto {
+    font-size: 21;
+    margin-bottom: 15;
+    text-align: center;
+}
+.cardButton {
+    justify-content: center;
+}
+.chip {
+    margin-top: 15;
+    margin-left: 0;
+    padding-left: 0;
+    margin-right: 10;
+}
+.small {
+    font-size: 14;
+    font-weight: 600;
+}
+.textPositionEMP {
+    transform: translate(-37%, 0%);
+    width: 47%;
+}
+.descriptionBlock {
+    line-height: 45px;
+}
+.employmentContent {
+    display: flex;
+    width: 160vh;
+}
+.chip {
+    margin-top: 15px;
+    margin-left: 0px;
+    padding-left: 0px;
+    margin-right: 10px;
+}

@@ -59,20 +59,6 @@ export const HomePage = ({ routePath, actionsDial }) => {
                         </div>
                     </div>
                 </Link>
-                <div className="nav-item mx-0 mx-lg-1">
-                    <div className="nav-link py-3 px-0 px-lg-3 rounded mt-3">
-                        <Link to={routePath.pathProjects}>
-                            <Button
-                                style={{ color: '#ffff' }}
-                                color='inherit'
-                            >
-                                Proyectos
-                            </Button>
-                        </Link>
-
-                    </div>
-                </div>
-                
                 <div className="navbar-nav ms-auto">
                     <div className="nav-item mx-0 mx-lg-1">
                         <div className="nav-link py-3 px-0 px-lg-3 rounded mt-3">
@@ -81,7 +67,7 @@ export const HomePage = ({ routePath, actionsDial }) => {
                                     style={{ color: '#ffff' }}
                                     color='inherit'
                                 >
-                                    About
+                                    Sobre mí
                                 </Button>
                             </Link>
                         </div>
@@ -94,7 +80,7 @@ export const HomePage = ({ routePath, actionsDial }) => {
                                 color='inherit'
                                 style={{color: '#ffff'}}
                             >
-                                Contact
+                                Contacto
                             </Button>
                         </Link>
                     </div>
